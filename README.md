@@ -1,7 +1,7 @@
 # Dynamic Index Replication via Kalman Filter
 
 ## Project Overview
-This project implements a **Black Box Index Replication strategy** using a universe of liquid Futures contracts. The goal is to replicate the returns of an unknown target index while minimizing tracking error and transaction costs.
+This project implements a **Black Box Index Replication strategy** using a Cost-Adaptive Kalman Filter on an universe of liquid Futures contracts. The goal is to replicate the returns of an unknown target index while minimizing tracking error and transaction costs.
 
 ## Methodology
 
